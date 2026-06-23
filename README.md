@@ -89,3 +89,5 @@ Aspiring Software Engineer with strong interests in Artificial Intelligence, Inf
 
 ⭐ Passionate about building, learning, and creating impactful technology.
 🚀 Continuously learning, improving, and solving real-world problems through technology.
+
+asdfghjwertyu
