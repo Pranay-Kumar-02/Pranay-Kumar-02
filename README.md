@@ -1,4 +1,4 @@
-# Hi, I'm Pranay Kumar 👋
+# Hi, I'm Pranay Kumar Vonamala👋
 
 ## 🎓 About Me
 
