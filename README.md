@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:2E1065,25:6D28D9,50:9333EA,75:A855F7,100:C084FC&text=Pranay%20Kumar%20Vonamala&fontColor=ffffff&fontSize=54&fontAlignY=37&animation=fadeIn&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Building%20Tomorrow&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:2E1065,25:6D28D9,50:9333EA,75:A855F7,100:C084FC&text=Pranay%20Kumar%20Vonamala&fontColor=ffffff&fontSize=54&fontAlignY=37&animation=fadeIn&![](https://img.shields.io/badge/Focus-Artificial%20Intelligence%20%26%20Cybersecurity-A855F7?style=for-the-badge)&descAlignY=60&descSize=18"/>
 
 </div>
 
