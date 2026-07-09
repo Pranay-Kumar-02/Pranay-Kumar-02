@@ -395,7 +395,7 @@ Analyze • Explain • Protect
 | 🤖 AI Agents | ✨ Prompt Engineering | 🚀 Production AI |
 
 </div>
-
+</div>
 ---
 
 <div align="center">
