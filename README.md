@@ -1,16 +1,6 @@
 <div align="center">
 
-<div align="center">
-
-![](https://img.shields.io/badge/Open_to-Internships-7C3AED?style=for-the-badge)
-
-![](https://img.shields.io/badge/Focus-AI%20%7C%20Cybersecurity-A855F7?style=for-the-badge)
-
-![](https://img.shields.io/badge/Building-Sentinel%20AI-9333EA?style=for-the-badge)
-
-![](https://img.shields.io/badge/Project-Spendly-C084FC?style=for-the-badge)
-
-![](https://img.shields.io/badge/Status-Learning%20Everyday-6D28D9?style=for-the-badge)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:2E1065,25:6D28D9,50:9333EA,75:A855F7,100:C084FC&text=Pranay%20Kumar%20Vonamala&fontColor=ffffff&fontSize=54&fontAlignY=37&animation=fadeIn&desc=AI%20Engineer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Building%20Tomorrow&descAlignY=60&descSize=18"/>
 
 </div>
 
@@ -22,7 +12,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=B.Tech+CSE+(Information+Security)+@+VIT+Vellore;Building+AI+Products+for+Real+Problems;Full-Stack+Developer;Learning+LLMs+%7C+LangChain+%7C+HuggingFace;Currently+Building+Spendly;Currently+Building+Sentinel+AI;Future+AI+Engineer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=B.Tech+CSE+(Information+Security)+@+VIT+Vellore;Building+AI+%26+Cybersecurity+Solutions;Full-Stack+Developer;Learning+LLMs+%7C+Cybersecurity+%7C+HuggingFace;Currently+Building+Spendly;Currently+Building+Sentinel+AI;Future+AI+%26+Cybersecurity+Engineer.)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,15 +20,33 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/Open%20to-Internships-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Open_to-Internships-7C3AED?style=for-the-badge)
 
-![](https://img.shields.io/badge/Focus-Artificial%20Intelligence-A855F7?style=for-the-badge)
+![](https://img.shields.io/badge/Focus-AI%20%7C%20Cybersecurity-A855F7?style=for-the-badge)
 
 ![](https://img.shields.io/badge/Building-Sentinel%20AI-9333EA?style=for-the-badge)
 
 ![](https://img.shields.io/badge/Project-Spendly-C084FC?style=for-the-badge)
 
-![](https://img.shields.io/badge/Status-Learning%20Everyday-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/Mindset-Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Improve-6D28D9?style=for-the-badge)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<div align="center">
+
+![](https://img.shields.io/badge/Open_to-Internships-7C3AED?style=for-the-badge)
+
+![](https://img.shields.io/badge/Focus-AI%20%7C%20Cybersecurity-A855F7?style=for-the-badge)
+
+![](https://img.shields.io/badge/Building-Sentinel%20AI-9333EA?style=for-the-badge)
+
+![](https://img.shields.io/badge/Flagship-Spendly-C084FC?style=for-the-badge)
+
+![](https://img.shields.io/badge/Mindset-Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Improve-6D28D9?style=for-the-badge)
 
 </div>
 
