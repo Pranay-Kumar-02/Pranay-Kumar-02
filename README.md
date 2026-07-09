@@ -257,7 +257,7 @@ Analyze • Explain • Protect
 
 <a href="https://github.com/Pranay-Kumar-02">
 
-<b>Coming Soon →</b>
+<b>On Progress →</b>
 
 </a>
 
@@ -272,42 +272,6 @@ Analyze • Explain • Protect
 ---
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line_neon.gif" width="100%">
-
-# `terminal`
-
-```bash
-pranay@github:~$
-
-$ whoami
-
-Pranay Kumar Vonamala
-
-$ education
-
-B.Tech CSE (Information Security)
-VIT Vellore
-
-$ current_focus
-
-Artificial Intelligence
-
-$ projects
-
-Spendly
-Sentinel AI
-
-$ mindset
-
-Learn.
-Build.
-Fail.
-Improve.
-Repeat.
-
-$ exit
-
-See you further down the README...
-```
 
 ---
 
@@ -537,6 +501,63 @@ Current Goal  :: Become an AI Engineer | Cyber Engineer
 </div>
 
 ---
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line_neon.gif" width="100%">
+
+# `network.connect()`
+
+<div align="center">
+
+<h1>🌐 Connect With Me</h1>
+
+<p>
+<i>
+Building AI.<br>
+Exploring Cybersecurity.<br>
+Always open to collaborations, internships and exciting opportunities.
+</i>
+</p>
+
+<br>
+
+<a href="https://github.com/Pranay-Kumar-02">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/pranay-kumar-vonamala/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/_pranayyyy_/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:vonamala.pranay@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=Let's+build+the+future+together.;Open+to+AI+Internships.;Cybersecurity+Enthusiast.;Always+Learning.+Always+Building."/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Pranay-Kumar-02&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:2E1065,25:6D28D9,50:9333EA,75:A855F7,100:C084FC"/>
+
+</div>
 
 # `contribution_snake`
 
