@@ -368,29 +368,39 @@ Analyze • Explain • Protect
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line_neon.gif" width="100%">
 ---
 
-# 🤖 Artificial Intelligence
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line_neon.gif" width="100%">
 
-<p>
+# 🤖 AI Engineering
 
-<img src="https://img.shields.io/badge/LangChain-7C3AED?style=for-the-badge"/>
+<div align="center">
 
-<img src="https://img.shields.io/badge/HuggingFace-9333EA?style=for-the-badge"/>
+### Building intelligent systems with modern AI technologies
 
-<img src="https://img.shields.io/badge/OpenRouter-A855F7?style=for-the-badge"/>
+<br>
 
-<img src="https://img.shields.io/badge/Ollama-C084FC?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Large+Language+Models;AI+Agents;Prompt+Engineering;Building+Production+AI+Applications"/>
 
-<img src="https://img.shields.io/badge/LLMs-6D28D9?style=for-the-badge"/>
+<br><br>
 
-<img src="https://img.shields.io/badge/NLP-9333EA?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
-<img src="https://img.shields.io/badge/Prompt%20Engineering-A855F7?style=for-the-badge"/>
+<br><br>
 
-<img src="https://img.shields.io/badge/AI%20Agents-C084FC?style=for-the-badge"/>
+| AI Frameworks | Models & APIs | Current Focus |
+| :---: | :---: | :---: |
+| 🦜 LangChain | 🤗 Hugging Face | 🧠 LLM Engineering |
+| 🦙 Ollama | 🔗 OpenRouter | 💬 NLP |
+| 🤖 AI Agents | ✨ Prompt Engineering | 🚀 Production AI |
 
-</p>
+</div>
 
 ---
+
+<div align="center">
+
+> **"I don't just use AI tools—I strive to understand how intelligent systems are designed, built, and deployed."**
+
+</div>
 
 # `currently_learning()`
 
@@ -399,7 +409,7 @@ Analyze • Explain • Protect
 <tr>
 
 <td width="33%">
-<div align="center">
+
 ## 🤖 AI
 
 - Large Language Models
