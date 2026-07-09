@@ -561,40 +561,6 @@ srcset="https://raw.githubusercontent.com/Pranay-Kumar-02/Pranay-Kumar-02/output
 
 ---
 
-# `terminal.exit()`
-
-```bash
-pranay@github:~$
-
-$ status
-
-Building...
-
-$ current_version
-
-AI Engineer (Loading...)
-
-$ next_goal
-
-Production-grade AI Systems
-
-$ philosophy
-
-Consistency > Motivation
-
-$ final_message
-
-Thank you for visiting.
-
-See you in the next commit.
-
-logout
-
-Connection closed.
-```
-
----
-
 <div align="center">
 
 # 💜 Thanks for Visiting
