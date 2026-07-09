@@ -398,7 +398,7 @@ Analyze • Explain • Protect
 
 <div align="center">
 
-> **"I don't just use AI tools—I strive to understand how intelligent systems are designed, built, and deployed."**
+ **"I don't just use AI tools—I strive to understand how intelligent systems are designed, built, and deployed."**
 
 </div>
 
