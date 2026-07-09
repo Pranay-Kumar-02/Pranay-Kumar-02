@@ -1,6 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:2E1065,25:6D28D9,50:9333EA,75:A855F7,100:C084FC&text=Pranay%20Kumar%20Vonamala&fontColor=ffffff&fontSize=54&fontAlignY=37&animation=fadeIn&![](https://img.shields.io/badge/Focus-Artificial%20Intelligence%20%26%20Cybersecurity-A855F7?style=for-the-badge)&descAlignY=60&descSize=18"/>
+<div align="center">
+
+![](https://img.shields.io/badge/Open_to-Internships-7C3AED?style=for-the-badge)
+
+![](https://img.shields.io/badge/Focus-AI%20%7C%20Cybersecurity-A855F7?style=for-the-badge)
+
+![](https://img.shields.io/badge/Building-Sentinel%20AI-9333EA?style=for-the-badge)
+
+![](https://img.shields.io/badge/Project-Spendly-C084FC?style=for-the-badge)
+
+![](https://img.shields.io/badge/Status-Learning%20Everyday-6D28D9?style=for-the-badge)
 
 </div>
 
