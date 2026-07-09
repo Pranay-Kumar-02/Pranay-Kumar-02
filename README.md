@@ -1091,9 +1091,3 @@ Connection closed.
 ---
 
 <div align="center">
-
-⬇️ Final Section Loading...
-
-Contact • Links • Footer • Snake • Profile Views • Finishing Touches
-
-</div>
