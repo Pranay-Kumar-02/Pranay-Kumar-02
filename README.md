@@ -427,30 +427,6 @@ See you further down the README...
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line_neon.gif" width="100%">
 
-# `tech_journey.log`
-
-```text
-Python                     ████████████████████ 95%
-
-React                      ████████████████░░░ 82%
-
-JavaScript                 ██████████████░░░░░ 75%
-
-FastAPI                    ███████████░░░░░░░░ 60%
-
-Artificial Intelligence    ███████████░░░░░░░░ 61%
-
-LangChain                  ██████████░░░░░░░░░ 56%
-
-HuggingFace                █████████░░░░░░░░░░ 47%
-
-Prompt Engineering         ██████████░░░░░░░░░ 55%
-
-DSA                        ███████████████░░░░ 80%
-```
-
----
-
 # `currently_learning()`
 
 <table>
@@ -505,39 +481,19 @@ DSA                        ███████████████░░�
 # `workspace_status`
 
 ```bash
-OS            :: Windows + Ubuntu
+OS            :: Windows + Ubuntu + Kali Linux
 
 Editor        :: Visual Studio Code
 
-Terminal      :: PowerShell / Ubuntu
+Terminal      :: PowerShell / Ubuntu /Kali Linux
 
-Version Ctrl  :: Git
+Version Ctrl  :: Git, Github
 
 Deployment    :: Vercel
 
-Daily Driver  :: Python
-
-Current Goal  :: Become an AI Engineer
+Current Goal  :: Become an AI Engineer | Cyber Engineer
 ```
 
----
-
-# `developer_principles.py`
-
-```python
-class Pranay:
-
-    def __init__(self):
-        self.mindset = [
-            "Learn Continuously",
-            "Build Consistently",
-            "Write Clean Code",
-            "Stay Curious",
-            "Never Stop Improving"
-        ]
-
-    def mission(self):
-        return "Build AI products that create real-world impact."
 ```
 
 ---
@@ -694,7 +650,7 @@ Primary Language:
   Python
 
 Favorite Domain:
-  Artificial Intelligence
+  Artificial Intelligence, Cyber Security
 
 Preferred Stack:
   React + FastAPI + Firebase
@@ -705,6 +661,7 @@ Editor:
 Operating Systems:
   Windows
   Ubuntu
+Kali Linux
 
 Coffee Level:
   ████████████
@@ -718,24 +675,8 @@ Motivation:
 
 ---
 
-# `daily_protocol.sh`
 
-```bash
-08:00  Learn
-
-10:00  Build
-
-13:00  Debug
-
-16:00  Improve
-
-19:00  Explore AI
-
-22:00  Push Commits
-
-Repeat.
 ```
-
 ---
 
 <div align="center">
@@ -763,42 +704,6 @@ Repeat.
 </div>
 
 ---
-
-<div align="center">
-
-```text
-
-             AI ENGINEER ROADMAP
-
-        ┌───────────────────────────────┐
-        │      Learn Fundamentals       │
-        └──────────────┬────────────────┘
-                       │
-                       ▼
-        ┌───────────────────────────────┐
-        │     Build Real Projects       │
-        └──────────────┬────────────────┘
-                       │
-                       ▼
-        ┌───────────────────────────────┐
-        │  Understand LLM Architecture  │
-        └──────────────┬────────────────┘
-                       │
-                       ▼
-        ┌───────────────────────────────┐
-        │      Deploy AI Products       │
-        └──────────────┬────────────────┘
-                       │
-                       ▼
-        ┌───────────────────────────────┐
-        │     Open Source & Research    │
-        └──────────────┬────────────────┘
-                       │
-                       ▼
-        AI Engineer
-```
-
-</div>
 
 ---
 
@@ -830,7 +735,7 @@ Repeat.
 
 ## 🌍 Long-Term
 
-- AI Engineer
+- AI Engineer | Cyber Engineer
 
 - Build useful AI products
 
@@ -870,59 +775,6 @@ the engineer I aspire to be.
 ```
 
 ---
-
-# `developer_dna.json`
-
-```json
-{
-  "mindset": "Growth",
-  "favorite_language": "Python",
-  "specialization": "Artificial Intelligence",
-  "current_project": "Sentinel AI",
-  "side_project": "Spendly",
-  "goal": "AI Engineer",
-  "coding_style": "Readable > Clever",
-  "learning": "Never Stops"
-}
-```
-
----
-
-# `project_philosophy()`
-
-<div align="center">
-
-| 💡 Principle | Description |
-|--------------|-------------|
-| 🚀 Learn by Building | Every new technology becomes a project. |
-| 🧠 Understand the Why | Don't memorize—understand concepts deeply. |
-| 📈 Improve Daily | Small improvements compound over time. |
-| 🤝 Build for People | Software should solve meaningful problems. |
-| 🔍 Stay Curious | Curiosity is my strongest skill. |
-
-</div>
-
----
-
-# `system_status`
-
-```text
-AI Knowledge            █████████████░░░░░
-
-Python                  ██████████████████
-
-Problem Solving         ███████████████░░
-
-Frontend               ███████████████░░
-
-Backend                ███████████░░░░░░
-
-Consistency            ██████████████████
-
-Curiosity              ██████████████████
-
-Coffee                 ██████████████████
-```
 
 ---
 
@@ -1015,28 +867,6 @@ srcset="https://raw.githubusercontent.com/Pranay-Kumar-02/Pranay-Kumar-02/output
 </picture>
 
 </div>
-
----
-
-# `developer_manifesto.md`
-
-```text
-Build with purpose.
-
-Write clean code.
-
-Stay curious.
-
-Learn continuously.
-
-Share knowledge.
-
-Embrace challenges.
-
-Keep improving.
-
-Never stop building.
-```
 
 ---
 
