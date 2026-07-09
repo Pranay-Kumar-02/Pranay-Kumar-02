@@ -795,45 +795,6 @@ the engineer I aspire to be.
 
 ...
 ```
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line_neon.gif" width="100%">
-
-# `network.connect()`
-
-<div align="center">
-
-## 🌐 Let's Connect
-
-*"Always open to meaningful conversations, collaborations, and opportunities."*
-
-<br>
-
-<a href="https://www.linkedin.com/in/pranay-kumar-vonamala/">
-<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="mailto:vonamala.pranay@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/Pranay-Kumar-02">
-<img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line_neon.gif" width="100%">
-
 # `github_metrics()`
 
 <div align="center">
