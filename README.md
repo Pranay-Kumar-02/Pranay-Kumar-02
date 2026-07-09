@@ -395,13 +395,14 @@ Analyze • Explain • Protect
 | 🤖 AI Agents | ✨ Prompt Engineering | 🚀 Production AI |
 
 </div>
-</div>
+
 ---
 
 <div align="center">
 
  **"I don't just use AI tools—I strive to understand how intelligent systems are designed, built, and deployed."**
 
+</div>
 </div>
 
 # `currently_learning()`
