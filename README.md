@@ -34,24 +34,6 @@
 
 <br>
 
-<div align="center">
-
-<div align="center">
-
-![](https://img.shields.io/badge/Open_to-Internships-7C3AED?style=for-the-badge)
-
-![](https://img.shields.io/badge/Focus-AI%20%7C%20Cybersecurity-A855F7?style=for-the-badge)
-
-![](https://img.shields.io/badge/Building-Sentinel%20AI-9333EA?style=for-the-badge)
-
-![](https://img.shields.io/badge/Flagship-Spendly-C084FC?style=for-the-badge)
-
-![](https://img.shields.io/badge/Mindset-Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Improve-6D28D9?style=for-the-badge)
-
-</div>
-
-<br>
-
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line_neon.gif" width="100%">
 
 # `boot_sequence.sh`
