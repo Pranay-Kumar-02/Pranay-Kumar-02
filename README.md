@@ -545,6 +545,10 @@ Always open to collaborations, internships and exciting opportunities.
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </div>
+
+---
+
+
 # `contribution_snake`
 
 
