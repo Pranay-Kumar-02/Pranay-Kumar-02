@@ -547,7 +547,7 @@ Always open to collaborations, internships and exciting opportunities.
 
 # `contribution_snake`
 
-<div align="center">
+
 
 <picture>
 
