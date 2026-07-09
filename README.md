@@ -541,24 +541,6 @@ Always open to collaborations, internships and exciting opportunities.
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=Let's+build+the+future+together.;Open+to+AI+Internships.;Cybersecurity+Enthusiast.;Always+Learning.+Always+Building."/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Pranay-Kumar-02&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:2E1065,25:6D28D9,50:9333EA,75:A855F7,100:C084FC"/>
-
-</div>
-
 # `contribution_snake`
 
 <div align="center">
