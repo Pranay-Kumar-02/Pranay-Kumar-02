@@ -333,30 +333,6 @@ Analyze • Explain • Protect
 
 ---
 
-# 🤖 Artificial Intelligence
-
-<p>
-
-<img src="https://img.shields.io/badge/LangChain-7C3AED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/HuggingFace-9333EA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenRouter-A855F7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Ollama-C084FC?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LLMs-6D28D9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NLP-9333EA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Prompt%20Engineering-A855F7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI%20Agents-C084FC?style=for-the-badge"/>
-
-</p>
-
----
-
 # 🗄️ Databases
 
 <p>
@@ -390,6 +366,31 @@ Analyze • Explain • Protect
 ---
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line_neon.gif" width="100%">
+---
+
+# 🤖 Artificial Intelligence
+
+<p>
+
+<img src="https://img.shields.io/badge/LangChain-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-9333EA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenRouter-A855F7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Ollama-C084FC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-6D28D9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-9333EA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-A855F7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Agents-C084FC?style=for-the-badge"/>
+
+</p>
+
+---
 
 # `currently_learning()`
 
