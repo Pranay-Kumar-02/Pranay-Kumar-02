@@ -68,8 +68,9 @@ Welcome, Recruiter 👋
 name: Pranay Kumar Vonamala
 
 role:
-  - AI Engineer (Aspiring)
-  - Full Stack Developer
+  - AI Engineer
+  - Cybersecurity Enthusiast
+  - Web Developer
 
 education:
   degree: B.Tech
@@ -82,6 +83,7 @@ current_focus:
   - Large Language Models
   - Agentic AI
   - Full Stack Development
+  - Data Structures And Algorithms
 
 currently_learning:
   - LangChain
