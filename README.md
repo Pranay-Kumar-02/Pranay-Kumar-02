@@ -370,6 +370,8 @@ Analyze • Explain • Protect
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line_neon.gif" width="100%">
 
+<div align="center">
+
 # 🤖 AI Engineering
 
 <div align="center">
