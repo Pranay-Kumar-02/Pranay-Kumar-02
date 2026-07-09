@@ -459,16 +459,6 @@ Current Goal  :: Become an AI Engineer | Cyber Engineer
 ```
 
 
-# `contribution_matrix`
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranay-Kumar-02&theme=github_dark"/>
-
-</div>
-
----
-
 # `future_loading...`
 
 ```bash
@@ -486,7 +476,7 @@ Current Goal  :: Become an AI Engineer | Cyber Engineer
 
 ...
 ```
-# `github_metrics()`
+# `contribution_metrics()`
 
 <div align="center">
 
