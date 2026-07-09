@@ -399,7 +399,7 @@ Analyze • Explain • Protect
 <tr>
 
 <td width="33%">
-
+<div align="center">
 ## 🤖 AI
 
 - Large Language Models
