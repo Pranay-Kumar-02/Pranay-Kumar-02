@@ -123,14 +123,11 @@ Every bug makes me a better engineer.
 
 And every day is another opportunity to improve.
 ```
-
 ---
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line_neon.gif" width="100%">
 
 # `currently_running()`
 
-<table>
+<table align="center">
 
 <tr>
 
@@ -299,7 +296,7 @@ Analyze • Explain • Protect
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -311,7 +308,7 @@ Analyze • Explain • Protect
 
 </p>
 
----
+
 
 # ⚛️ Frontend Development
 
@@ -321,7 +318,7 @@ Analyze • Explain • Protect
 
 </p>
 
----
+
 
 # ⚙️ Backend Development
 
@@ -331,7 +328,7 @@ Analyze • Explain • Protect
 
 </p>
 
----
+
 
 # 🗄️ Databases
 
@@ -341,7 +338,7 @@ Analyze • Explain • Protect
 
 </p>
 
----
+
 
 # ☁️ Version Control & Deployment
 
@@ -351,7 +348,7 @@ Analyze • Explain • Protect
 
 </p>
 
----
+
 
 # 🛠️ Development Tools
 
@@ -407,7 +404,7 @@ Analyze • Explain • Protect
 
 # `currently_learning()`
 
-<table>
+<table align="center">
 
 <tr>
 
@@ -456,56 +453,168 @@ Analyze • Explain • Protect
 
 ---
 
-# `workspace_status`
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line_neon.gif" width="100%">
 
-```bash
-OS            :: Windows + Ubuntu + Kali Linux
-
-Editor        :: Visual Studio Code
-
-Terminal      :: PowerShell / Ubuntu /Kali Linux
-
-Version Ctrl  :: Git, Github
-
-Deployment    :: Vercel
-
-Current Goal  :: Become an AI Engineer | Cyber Engineer
-```
-
-
-# `future_loading...`
-
-```bash
-✓ Build AI Products
-
-✓ Master LLMs
-
-✓ Learn System Design
-
-✓ Contribute to Open Source
-
-✓ Build Startups
-
-✓ Keep Improving
-
-...
-```
-# `contribution_metrics()`
+# `AI_MISSION_CONTROL`
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1400&color=A855F7&center=true&vCenter=true&width=900&lines=AI+Mission+Control+Online.;Cybersecurity+Engine+Activated.;Building+Tomorrow,+One+Commit+at+a+Time."/>
+
+<br><br>
+
+<table>
+<tr>
+
+<td align="center" width="280">
+
+### 💻 System
+
+🖥️ **Windows 11**
+
+🐧 **Ubuntu**
+
+🐉 **Kali Linux**
+
+💜 **VS Code**
+
+⚡ **Git & GitHub**
+
+☁️ **Vercel**
+
+</td>
+
+<td align="center" width="280">
+
+### 🚀 Active
+
+🛡️ **Sentinel AI**
+
+💰 **Spendly**
+
+🤖 **AI Development**
+
+🌐 **Full-Stack Projects**
+
+📚 **Learning Every Day**
+
+</td>
+
+<td align="center" width="280">
+
+### 🎯 Vision
+
+🤖 **AI Engineer**
+
+🛡️ **Cybersecurity**
+
+💡 **Open Source**
+
+📖 **Research**
+
+🚀 **Innovation**
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+### ⚡ Core Modules
+
+| Module | Status |
+|:-----------------------|:---------------------------:|
+| 🤖 AI Engineering | 🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ |
+| 🛡️ Cybersecurity | 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ |
+| 🌐 Full Stack | 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ |
+| 🧩 Problem Solving | 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜ |
+| 🚀 Project Building | 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜ |
+| 📚 Continuous Learning | 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪 |
+
+<br>
+
+---
+
+### 🛰️ Runtime Status
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🤖 AI CORE                ● ONLINE
+
+🛡️ CYBER CORE            ● ACTIVE
+
+🚀 SENTINEL AI           ● BUILDING
+
+💰 SPENDLY               ● DEPLOYED
+
+⚡ INTERNSHIP MODE        ● ENABLED
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PASSION                  ████████████████
+
+DISCIPLINE               ████████████████
+
+CONSISTENCY              ████████████████
+
+CURIOSITY                ████████████████
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+<br>
+
+> ### 💜 *"Build. Learn. Secure. Repeat."*
+
+</div>
+
+# `mission_control.dashboard`
+
+<div align="center">
+
+## 📊 GitHub Mission Control
+
+<i>Consistency • Contributions • Growth</i>
+
+<br>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=Pranay-Kumar-02&theme=midnight-purple&hide_border=true&background=00000000&ring=A855F7&fire=C084FC&currStreakLabel=FFFFFF"/>
+
+<br><br>
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranay-Kumar-02&theme=github_dark"/>
 
 <br><br>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranay-Kumar-02&theme=github_dark"/>
+<table>
+<tr>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranay-Kumar-02&theme=github_dark"/>
+<td width="50%">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranay-Kumar-02&theme=github_dark"/>
+
+</td>
+
+<td width="50%">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranay-Kumar-02&theme=github_dark"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay-Kumar-02&theme=react-dark&hide_border=true&radius=18&line=A855F7&color=C084FC&point=FFFFFF"/>
+
+<br><br>
 
 </div>
-
----
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line_neon.gif" width="100%">
 
 # `network.connect()`
 
