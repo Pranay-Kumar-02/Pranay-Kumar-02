@@ -36,70 +36,117 @@
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line_neon.gif" width="100%">
 
-# `boot_sequence.sh`
-
-```text
-──────────────────────────────────────────────────────────────
-
-Initializing Developer Profile...
-
-Loading Passion.........................██████████████ 100%
-
-Loading Curiosity.......................██████████████ 100%
-
-Loading Consistency.....................██████████████ 100%
-
-Loading AI Journey......................██████████░░ 74%
-
-Loading Coffee..........................██████████████ 100%
-
-Launching Portfolio...
-
-Welcome, Recruiter 👋
-
-──────────────────────────────────────────────────────────────
-```
-
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line_neon.gif" width="100%">
 
-# `system_info.yaml`
+# `initialize.pranay()`
 
-```yaml
-name: Pranay Kumar Vonamala
+<div align="center">
 
-role:
-  - AI Engineer
-  - Cybersecurity Enthusiast
-  - Web Developer
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Initializing+Pranay+OS...;Loading+Artificial+Intelligence+Core...;Loading+Cybersecurity+Engine...;Preparing+Mission+Control...;Welcome+to+my+GitHub+Profile."/>
 
-education:
-  degree: B.Tech
-  specialization: Computer Science & Engineering
-  branch: Information Security
-  university: VIT Vellore
+</div>
 
-current_focus:
-  - Artificial Intelligence
-  - Large Language Models
-  - Agentic AI
-  - Full Stack Development
-  - Data Structures And Algorithms
+---
 
-currently_learning:
-  - LangChain
-  - HuggingFace
-  - NLP
-  - FastAPI
-  - Vector Databases
-  - AI System Design
+```bash
+$ ./initialize.pranay
 
-building:
-  - Spendly
-  - Sentinel AI
+[✓] Identity Verified
 
-goal:
-  Build intelligent software that solves real-world problems.
+[✓] AI Core Loaded
+
+[✓] Cybersecurity Module Activated
+
+[✓] Full Stack Environment Ready
+
+[✓] Mission Control Connected
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+👤 NAME
+
+Pranay Kumar Vonamala
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎓 EDUCATION
+
+B.Tech — Computer Science & Engineering
+
+Specialization — Information Security
+
+VIT Vellore
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 CURRENT MISSION
+
+Design and build intelligent AI systems
+
+while developing secure, scalable software.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 ACTIVE PROJECTS
+
+▸ Sentinel AI
+
+▸ Spendly
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 CURRENTLY LEARNING
+
+▸ Large Language Models
+
+▸ LangChain
+
+▸ Hugging Face
+
+▸ AI Agents
+
+▸ Prompt Engineering
+
+▸ Cybersecurity
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🟢 STATUS
+
+Open to AI & Software Engineering Internships
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+READY.
 ```
+
+---
+
+# `developer_manifesto.md`
+
+> ## 💜 Build with purpose.
+>
+> I believe software should solve meaningful problems—not just exist.
+>
+> Every project I build is an opportunity to improve my understanding of Artificial Intelligence, Cybersecurity, and modern software engineering.
+>
+> I'm currently focused on designing intelligent applications, strengthening my problem-solving skills, contributing to open source, and building products that create real-world impact.
+>
+> **Current Direction**
+>
+> 🤖 Artificial Intelligence
+>
+> 🛡️ Cybersecurity
+>
+> 🌐 Full-Stack Development
+>
+> 🚀 Building AI Products
+>
+> 💡 Continuous Learning
+>
+> ---
+>
+> ### *"One commit. One lesson. One step closer."*
 
 ---
 
