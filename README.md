@@ -593,34 +593,6 @@ Analyze • Explain • Protect
 
 ---
 
-### 🛰️ Runtime Status
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🤖 AI CORE                ● ONLINE
-
-🛡️ CYBER CORE            ● ACTIVE
-
-🚀 SENTINEL AI           ● BUILDING
-
-💰 SPENDLY               ● DEPLOYED
-
-⚡ INTERNSHIP MODE        ● ENABLED
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-PASSION                  ████████████████
-
-DISCIPLINE               ████████████████
-
-CONSISTENCY              ████████████████
-
-CURIOSITY                ████████████████
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
 <br>
 
 > ### 💜 *"Build. Learn. Secure. Repeat."*
