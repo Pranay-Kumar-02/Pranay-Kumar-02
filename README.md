@@ -38,13 +38,6 @@
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line_neon.gif" width="100%">
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Pranay-Kumar-02/Pranay-Kumar-02/blob/main/dark.svg?raw=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Pranay-Kumar-02/Pranay-Kumar-02/blob/main/light.svg?raw=true">
-    <img alt="Pranay Kumar Vonamala - GitHub Profile Hero Banner" src="https://github.com/Pranay-Kumar-02/Pranay-Kumar-02/blob/main/dark.svg?raw=true" width="100%">
-  </picture>
-</div>
 
 # `initialize.pranay()`
 
