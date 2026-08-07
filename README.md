@@ -326,9 +326,6 @@ Analyze • Explain • Protect
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line_neon.gif" width="100%">
 
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line_neon.gif" width="100%">
-
 <div align="center">
 
 # 🤖 AI Engineering
@@ -340,10 +337,6 @@ Analyze • Explain • Protect
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Large+Language+Models;AI+Agents;Prompt+Engineering;Building+Production+AI+Applications"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
 <br><br>
 
@@ -417,90 +410,7 @@ Analyze • Explain • Protect
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line_neon.gif" width="100%">
 
-# `AI_MISSION_CONTROL`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1400&color=A855F7&center=true&vCenter=true&width=900&lines=AI+Mission+Control+Online.;Cybersecurity+Engine+Activated.;Building+Tomorrow,+One+Commit+at+a+Time."/>
-
-<br><br>
-
-<table>
-<tr>
-
-<td align="center" width="280">
-
-### 💻 System
-
-🖥️ **Windows 11**
-
-🐧 **Ubuntu**
-
-🐉 **Kali Linux**
-
-💜 **VS Code**
-
-⚡ **Git & GitHub**
-
-☁️ **Vercel**
-
-</td>
-
-<td align="center" width="280">
-
-### 🚀 Active
-
-🛡️ **Sentinel AI**
-
-💰 **Spendly**
-
-🤖 **AI Development**
-
-🌐 **Full-Stack Projects**
-
-📚 **Learning Every Day**
-
-</td>
-
-<td align="center" width="280">
-
-### 🎯 Vision
-
-🤖 **AI Engineer**
-
-🛡️ **Cybersecurity**
-
-💡 **Open Source**
-
-📖 **Research**
-
-🚀 **Innovation**
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
 ---
-
-### ⚡ Core Modules
-
-| Module | Status |
-|:-----------------------|:---------------------------:|
-| 🤖 AI Engineering | 🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ |
-| 🛡️ Cybersecurity | 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ |
-| 🌐 Full Stack | 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ |
-| 🧩 Problem Solving | 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜ |
-| 🚀 Project Building | 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜ |
-| 📚 Continuous Learning | 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪 |
-
-<br>
-
----
-
-<br>
 
 > ### 💜 *"Build. Learn. Secure. Repeat."*
 
