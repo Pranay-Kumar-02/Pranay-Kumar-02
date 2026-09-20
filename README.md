@@ -8,7 +8,7 @@
 
 # ⚡ Welcome to my Digital Workspace
 
-### *Where ideas become intelligent software.*qwertyui
+### *Where ideas become intelligent software.*
 
 <br>
 
