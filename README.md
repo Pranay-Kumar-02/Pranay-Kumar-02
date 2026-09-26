@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# ⚡ Welcome to my Digital Workspace sdfgh
+# ⚡ Welcome to my Digital Workspace
 
 ### *Where ideas become intelligent software.*
 
