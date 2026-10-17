@@ -38,7 +38,7 @@ I build software at the intersection of **AI and security**: LLM-powered threat 
 
 <br/>
 
-## Currently qwertyui
+## Currently
 
 - 🏢 **Working:** AI/ML, Model Training & Full-Stack Engineering Intern at **10X Technologies** (since Aug 2026), covering model training workflows, large-scale data collection, OCR and transcription, and LLM / RAG / ONNX / GGUF pipelines.
 - 🔨 **Building:** five projects across AI security, data engineering, compilers, agents and fintech (below).
