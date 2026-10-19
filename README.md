@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,45:6D28D9,100:C084FC&text=Pranay%20Kumar%20Vonamala&fontColor=ffffff&fontSize=46&fontAlignY=36&animation=fadeIn&desc=AI%20Engineering%20%C2%B7%20Cybersecurity%20%C2%B7%20Full-Stack&descAlignY=58&descSize=18" width="100%" alt="Pranay Kumar Vonamala" />
 
@@ -26,7 +26,7 @@
 ## `whoami`
 
 ```text
-Pranay Kumar Vonamala
+Pranay Kumar Vonamala asdfgh
 ├── role        AI/ML, Model Training & Full-Stack Engineering Intern @ 10X Technologies
 ├── studying    B.Tech CSE (Information Security), VIT Vellore · 2024 - 2028
 ├── building    Sentinel AI · Textora Engine · Veyra · SupportFlow AI · Spendly
