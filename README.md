@@ -26,7 +26,7 @@
 ## `whoami`
 
 ```text
-Pranay Kumar Vonamala asdfgh
+Pranay Kumar Vonamala
 ├── role        AI/ML, Model Training & Full-Stack Engineering Intern @ 10X Technologies
 ├── studying    B.Tech CSE (Information Security), VIT Vellore · 2024 - 2028
 ├── building    Sentinel AI · Textora Engine · Veyra · SupportFlow AI · Spendly
